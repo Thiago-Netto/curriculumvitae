@@ -1,2 +1,2 @@
-# curriculumvitae
-curriculum vitae
+# Curriculum Vitae
+Currículo Thiago design/frontend html
